@@ -1,7 +1,12 @@
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# Python cache
+# Anaconda/Jupyter metadata
+anaconda_projects/
+**/anaconda_projects/
+*.db
+
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -12,13 +17,8 @@ __pycache__/
 venv/
 env/
 
-# Conda
-.conda/
-
-# VS Code
+# IDEs
 .vscode/
-
-# PyCharm
 .idea/
 
 # Operating System Files
