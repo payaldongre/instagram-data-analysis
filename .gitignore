@@ -1,0 +1,29 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.env
+.venv/
+venv/
+env/
+
+# Conda
+.conda/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
